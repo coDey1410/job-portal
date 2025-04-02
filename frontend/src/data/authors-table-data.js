@@ -94,13 +94,13 @@ export const news = [
     about: [
       `1. Consulted on technical information by - 
       <img src="https://itviec.com/blog/wp-content/uploads/2024/03/Pham-Huu-Ngoc-technical-content-reviewer-300x225.jpg" alt="" width="300" height="300">
-      Phạm Hữu Ngọc( Web Developer )
+      Utsav Dey( Web Developer )
       <br/>
       <br/>
-      Ngọc Phạm, a software engineer with over 3 years of experience in web development, has participated in projects with various clients from Vietnam, the United States, and Japan. As someone who loves creativity, Ngọc always enjoys exploring new things. Ngọc sets high standards for their code, constantly striving to improve its quality.
+      Utsav, is a software engineer with over 3 years of experience in web development, has participated in projects with various clients from Vietnam, the United States, and Japan. As someone who loves creativity, Ngọc always enjoys exploring new things. Utsav sets high standards for their code, constantly striving to improve its quality.
       <br/>
       <br/>
-      Currently, Ngọc works as a Web Developer at Voyager Inc.. Here, Ngọc aims to deliver high-quality, useful products that bring value to both the company and its customers.
+      Currently, his works as a Web Developer at Voyager Inc.. Here, utsav aims to deliver high-quality, useful products that bring value to both the company and its customers.
     `,
       `2. What are HTML tags? - 
       <br/>
@@ -199,11 +199,11 @@ export const news = [
         <br/>
         <span>&nbsp;&nbsp;&lt;body&gt;</span>
         <span>&nbsp;&nbsp;&nbsp;&lt;!--&nbsp;4 heading levels:&nbsp;--&gt;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;h1&gt;Công việc IT&lt;/h1&gt;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;h2&gt;Sự nghiệp IT&lt;/h2&gt;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;h3&gt;Chuyên môn IT&lt;/h3&gt;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;h4&gt;Chuyện IT&lt;/h4&gt;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&lt;p&gt;Ý tưởng phát triển sự nghiệp IT của bạn&lt;/p&gt;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;h1&gt;Hi Bhunu&lt;/h1&gt;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;h2&gt;This is Utsav&lt;/h2&gt;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;h3&gt;This is sayantan&lt;/h3&gt;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;h4&gt;This is ani&lt;/h4&gt;</span>
+        
         <span>&nbsp;&nbsp;&lt;/body&gt;</span>
         <span>&lt;/html&gt;</span>
       </pre>

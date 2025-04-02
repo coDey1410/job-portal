@@ -77,7 +77,7 @@ const SignUp = async (req, res) => {
           })
           .catch((err) => {
             user
-              .delete()
+              .deleteOne()
               .then(() => {
                 res.status(400).json(err);
               })

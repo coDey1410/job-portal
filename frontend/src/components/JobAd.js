@@ -94,7 +94,7 @@ export default function JobAd({ job, tags, about, edit }) {
             <tbody className="text-xl">
               <tr>
                 <td className="text-bold">Salary reward</td>
-                <td className="text-right">{job.salary || ""} $</td>
+                <td className="text-right">{job.salary || ""} ₹</td>
               </tr>
 
               <tr>

@@ -1,8 +1,8 @@
-import curb from "assets/images/curb_bw.png";
-import depict from "assets/images/depict_bw.png";
-import volta from "assets/images/volta_bw.png";
-import valtech from "assets/images/valtech.png";
-
+import amd from "assets/amd.png";
+import oracle from "assets/oracle.png";
+import uber from "assets/uber.png";
+import ibm from "assets/ibm.png";
+import chatgpt from "assets/chat-gpt.png";
 export default function Trusted() {
   return (
     <div className="hidden md:grid grid-cols-12 w-11/12 mx-auto mt-12 gap-4 md:text-left text-center ">
@@ -13,20 +13,20 @@ export default function Trusted() {
       </div>
 
       <div className=" md:col-span-2 col-span-6 h-16 opacity-30">
-        <img src={valtech} className="h-full w-auto mx-auto" alt="curb food" />
+        <img src={amd} className="h-full w-auto mx-auto" alt="curb food" />
       </div>
 
       <div className=" md:col-span-2 col-span-6 h-16">
-        <img src={curb} className="h-full w-auto mx-auto" alt="curb food" />
+        <img src={oracle} className="h-full w-auto mx-auto" alt="curb food" />
       </div>
 
       <div className=" md:col-span-2 col-span-6 h-16">
-        <img src={depict} className="h-full w-auto  mx-auto" alt="depict" />
+        <img src={uber} className="h-full w-auto  mx-auto" alt="depict" />
       </div>
 
       <div className="md:col-span-2 col-span-8  h-16">
         <img
-          src={volta}
+          src={ibm}
           className="h-full w-auto  mx-auto"
           alt="volta greentech"
         />

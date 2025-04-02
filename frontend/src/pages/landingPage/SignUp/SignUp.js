@@ -650,7 +650,7 @@ export default function SignUp() {
           className={`mt-2 w-full font-semibold px-4 py-3 rounded-lg text-sm ${
             (signupDetails.type === "applicant" && allFieldsCheckedApplicant) ||
             (signupDetails.type === "recruiter" && allFieldsCheckedRecruiter)
-              ? "bg-primary text-gray-500 hover:bg-[#F2994A] hover:text-black border-yellow-100 cursor-pointer"
+              ? "bg-primary text-gray-500 hover:bg-[#cd5b45] hover:text-black border-yellow-100 cursor-pointer"
               : "bg-yellow-100 text-yellow-800 cursor-not-allowed border-yellow-100"
           }`}
           onClick={() => {

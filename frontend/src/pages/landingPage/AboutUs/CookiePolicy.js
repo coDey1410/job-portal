@@ -150,8 +150,8 @@ export default function CookiePolicy() {
         <h2 className="text-3xl mb-4 mt-10">Contact us</h2>
         <p>
           If you have any questions, please contact{" "}
-          <span className="font-bold">Ricky(Kha)</span> by email at{" "}
-          <span className="font-bold">nhatkha06299@gmail.com</span>
+          <span className="font-bold">our team</span> by email at{" "}
+          <span className="font-bold">APIzzOP@gmail.com</span>
         </p>
       </div>
     </div>

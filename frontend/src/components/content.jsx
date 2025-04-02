@@ -128,7 +128,7 @@ export default function Jumbotron() {
             <div className="mt-8 sm:mt-12 mx-auto flex gap-3 justify-center">
               <button
                 onClick={() => openModal()}
-                className="transform ease-in duration-100 hover:-translate-y-1 hover:shadow-lg md:mx-0  text-white shadow font-semibold rounded-full items-center justify-center py-3 border border-transparent text-base  bg-[#F2994A] md:py-4 md:text-lg px-8"
+                className="transform ease-in duration-100 hover:-translate-y-1 hover:shadow-lg md:mx-0  text-white shadow font-semibold rounded-full items-center justify-center py-3 border border-transparent text-base  bg-[#cd5b45] md:py-4 md:text-lg px-8"
               >
                 Search for a favorite job
               </button>

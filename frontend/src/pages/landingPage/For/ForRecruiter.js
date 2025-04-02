@@ -154,7 +154,7 @@ export default function ForRecruiter() {
         questionTwo="When and how much do I pay?"
         answerTwo="Greet was recently launched and we are offering early adopters to start using the service for free (for a limited time), i.e no monthly pricing plan. Instead, you only pay for the interview reward and hiring reward when you interview or hire someone. So until then, you get free promotion."
         questionThree="How do I get my company on FindWork?"
-        answerThree="Contact nhatkha06299@gmail.com"
+        answerThree="Contact APIzzOP@gmail.com"
       />
       {type === "recruiter" ? (
         <Banner
